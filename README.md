@@ -19,3 +19,17 @@
 - kitti：kitti数据集说明与使用
 - nuScenes数据集说明与使用
 - pandaset数据集说明与使用
+
+
+
+# 更新
+
+- 下载资源包
+
+```shell
+git clone https://github.com/bugquella/dataset_tools.git
+git add *
+git commit -m "update"
+git push origin main:main
+```
+
